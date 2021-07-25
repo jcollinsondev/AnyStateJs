@@ -1,0 +1,24 @@
+{
+  "name": "anystatejs",
+  "version": "1.0.1",
+  "description": "javascript state handler",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": "julian collinson",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^7.2.0"
+  },
+  "files": [
+    "/dist"
+  ],
+  "keywords": [
+    "javascript",
+    "js",
+    "observables",
+    "rx",
+    "rx-js",
+    "state",
+    "typescript"
+  ]
+}
