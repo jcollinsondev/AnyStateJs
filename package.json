@@ -5,6 +5,10 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "author": "julian collinson",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juliancollinson2/AnyStateJs.git"
+  },
   "license": "ISC",
   "dependencies": {
     "rxjs": "^7.2.0"
